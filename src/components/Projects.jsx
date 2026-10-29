@@ -1,7 +1,7 @@
 import { motion } from "framer-motion";
 import { FaGithub, FaExternalLinkAlt } from "react-icons/fa";
 import airbnbImage from "../assets/Airbnb.png";
-import FoodZoneImage from "../assets/FOODZONE.png";
+import FoodZoneImage from "../assets/FoodZone.png";
 
 const projects = [
   {
